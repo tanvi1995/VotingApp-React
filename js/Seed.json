@@ -1,0 +1,49 @@
+{
+  "productsList": [
+    {
+      "id": "1",
+      "title": "Sonu Nigam",
+      "description": "Sonu Nigam is an Indian playback singer, live performer, host and actor. He sings predominantly in Hindi- and Kannada-language films various Indian languages.",
+	  "upvote":21,
+	  "downvote":15,
+	  "submitterUrl" : "images/voters/v1.jpg",
+	  "productUrl" : "images/products/p1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Shaan",
+      "description": "Shantanu Mukherjee, known as Shaan, is an Indian playback singer active in Hindi, Bengali, Marathi, Urdu, Telugu and Kannada films and a television host.",
+	  "upvote":21,
+	  "downvote":15,
+	  "submitterUrl" : "images/voters/v2.jpg",
+	  "productUrl" : "images/products/p2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Shirley Setia",
+      "description": "Shirley Setia is an Indo-Kiwi singer and performer from Auckland, New Zealand. ",
+	  "upvote":21,
+	  "downvote":15,
+	  "submitterUrl" : "images/voters/v3.png",
+	  "productUrl" : "images/products/p3.jpg"
+    },
+	{
+	"id": "4",
+      "title": "Justin Beiber",
+      "description": "Justin Drew Bieber is a Canadian singer-songwriter. After talent manager Scooter Braun discovered him through his YouTube videos covering songs in 2008 ",
+	  "upvote":21,
+	  "downvote":15,
+	  "submitterUrl" : "images/voters/v4.jpg",
+	  "productUrl" : "images/products/p4.jpg"
+	},
+	{
+	"id": "5",
+      "title": "Taylor Swift",
+      "description": "Taylor Alison Swift is an American singer-songwriter. One of the world's leading contemporary recording artists, she is known for narrative songs about her personal life, which have received widespread media coverage.",
+	  "upvote":21,
+	  "downvote":15,
+	  "submitterUrl" : "images/voters/v5.jpg",
+	  "productUrl" : "images/products/p5.jpg"
+	}
+  ]
+}
